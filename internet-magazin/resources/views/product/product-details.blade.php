@@ -118,38 +118,38 @@
                             <p><b>Availability:</b>
                                 {{ $product->quantity > 0 ? 'In stock' : 'Not available' }}
                             </p>
-{{--                            <p><b>Condition:</b> New</p>--}}
-{{--                            <p><b>Brand:</b> E-SHOPPER</p>--}}
-{{--                            <div class="dropdowns">--}}
-{{--                                <div class="dropdown">--}}
-{{--                                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Size chart--}}
-{{--                                        <span class="caret"></span></button>--}}
-{{--                                    <ul class="dropdown-menu">--}}
-{{--                                        <li><a href="#">XS</a></li>--}}
-{{--                                        <li><a href="#">S</a></li>--}}
-{{--                                        <li><a href="#">M</a></li>--}}
-{{--                                        <li><a href="#">L</a></li>--}}
-{{--                                        <li><a href="#">XL</a></li>--}}
-{{--                                        <li><a href="#">XXL</a></li>--}}
-{{--                                    </ul>--}}
-{{--                                </div>--}}
+                            <p><b>Condition:</b> New</p>
+                            <p><b>Brand:</b> E-SHOPPER</p>
+                            <div class="dropdowns">
+                                <div class="dropdown">
+                                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Size chart
+                                        <span class="caret"></span></button>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">XS</a></li>
+                                        <li><a href="#">S</a></li>
+                                        <li><a href="#">M</a></li>
+                                        <li><a href="#">L</a></li>
+                                        <li><a href="#">XL</a></li>
+                                        <li><a href="#">XXL</a></li>
+                                    </ul>
+                                </div>
 
-{{--                                <div class="dropdown">--}}
-{{--                                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Color chart--}}
-{{--                                        <span class="caret"></span></button>--}}
-{{--                                    <ul class="dropdown-menu">--}}
-{{--                                        <li><a href="#">Белый</a></li>--}}
-{{--                                        <li><a href="#">Черный</a></li>--}}
-{{--                                        <li><a href="#">Красный</a></li>--}}
-{{--                                        <li><a href="#">Оранжевый</a></li>--}}
-{{--                                        <li><a href="#">Желтый</a></li>--}}
-{{--                                        <li><a href="#">Зеленый</a></li>--}}
-{{--                                        <li><a href="#">Синий</a></li>--}}
-{{--                                        <li><a href="#">Красный</a></li>--}}
-{{--                                        <li><a href="#">Голубой</a></li>--}}
-{{--                                    </ul>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
+                                <div class="dropdown">
+                                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Color chart
+                                        <span class="caret"></span></button>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Белый</a></li>
+                                        <li><a href="#">Черный</a></li>
+                                        <li><a href="#">Красный</a></li>
+                                        <li><a href="#">Оранжевый</a></li>
+                                        <li><a href="#">Желтый</a></li>
+                                        <li><a href="#">Зеленый</a></li>
+                                        <li><a href="#">Синий</a></li>
+                                        <li><a href="#">Красный</a></li>
+                                        <li><a href="#">Голубой</a></li>
+                                    </ul>
+                                </div>
+                            </div>
 
                         </div><!--/product-information-->
                     </div>
